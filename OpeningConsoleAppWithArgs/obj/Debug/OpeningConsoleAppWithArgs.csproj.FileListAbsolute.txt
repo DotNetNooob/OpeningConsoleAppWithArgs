@@ -1,0 +1,6 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\bin\Debug\OpeningConsoleAppWithArgs.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\bin\Debug\OpeningConsoleAppWithArgs.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\bin\Debug\OpeningConsoleAppWithArgs.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\obj\Debug\OpeningConsoleAppWithArgs.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\obj\Debug\OpeningConsoleAppWithArgs.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\OpeningConsoleAppWithArgs\obj\Debug\OpeningConsoleAppWithArgs.pdb

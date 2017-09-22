@@ -1,0 +1,5 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\TriggerApp\bin\Debug\TriggerApp.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\TriggerApp\bin\Debug\TriggerApp.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\TriggerApp\bin\Debug\TriggerApp.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\TriggerApp\obj\Debug\TriggerApp.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\OpeningConsoleAppWithArgs\TriggerApp\obj\Debug\TriggerApp.pdb
