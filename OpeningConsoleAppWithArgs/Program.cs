@@ -17,6 +17,7 @@ namespace OpeningConsoleAppWithArgs
                     Console.WriteLine(item);
                 }
             }
+            // Initial Commit
             Console.ReadKey();
         }
     }
