@@ -18,7 +18,6 @@ namespace TriggerApp
 
             Console.WriteLine("Process Started");
             Console.ReadKey();
-
         }
     }
 }
